@@ -7,8 +7,7 @@ Starting out in tech so I'm really just sharing my journey as i go fr<br>
 
 ![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhabirTheGoat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
