@@ -2,8 +2,8 @@
 
 
 
-This app is confusing vro</br>
-Starting out in tech so I'm really just sharing my journey as i go fr<br>
+i like building stuff</br>
+
 
 ![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
 
